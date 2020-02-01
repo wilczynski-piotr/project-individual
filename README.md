@@ -1,1 +1,1 @@
-http://www.https://secure-chamber-76743.herokuapp.com/
+http://www.secure-chamber-76743.herokuapp.com/
